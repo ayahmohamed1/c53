@@ -271,7 +271,7 @@ export default function GiftClient({ data }: Props) {
         <button onClick={() => scrollTo('letter')} title="Message">💌</button>
         <button onClick={() => scrollTo('moments')} title="Moments">📸</button>
         <button onClick={() => scrollTo('song')} title="Our Song">🎵</button>
-        <button onClick={() => scrollTo('date')} title="Question">💍</button>
+        <button onClick={() => scrollTo('date')} title="Question">💖</button>
       </nav>
 
       {/* أعلام الزينة أعلى الصفحة */}
@@ -643,7 +643,7 @@ export default function GiftClient({ data }: Props) {
                 Knew you would say yes! ❤️
               </h2>
               <p className="description" style={{ color: '#fbcfe8', fontSize: '1.05rem', margin: '10px auto' }}>
-                Forever & always with you babe 💍✨
+                Forever & always with you babe 💖✨
               </p>
             </div>
           )}
